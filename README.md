@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtozn1923&label=Profile%20views&color=0e75b6&style=flat" alt="mrtozn1923" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtozn1923&show_icons=true&locale=en" alt="mrtozn1923" /></p>
-
 - 📫 How to reach me **mertozensoru@gmail.com**
 
 <h3 align="left">Web Site:</h3>
